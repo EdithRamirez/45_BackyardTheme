@@ -1,0 +1,30 @@
+$blanco: #fff;
+$negro: #000;
+$azul: #3CB1F6;
+
+nav {
+	.navbar-blanco {
+		background-color : $blanco;
+	}
+}
+
+#logo{
+	max-width: 30%;
+}
+
+li.menu {
+	color : $negro; 
+}
+#bg-fondo {
+	background-image: url("../images/fondo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	
+	.opacidad{
+		background-color: rgba(0,0,0,.4);
+	}
+}
+div{
+	border: 1px solid red;
+}

@@ -1,0 +1,21 @@
+nav .navbar-blanco {
+  background-color: #fff; }
+
+#logo {
+  max-width: 30%; }
+
+li.menu {
+  color: #000; }
+
+#bg-fondo {
+  background-image: url("../images/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%; }
+  #bg-fondo .opacidad {
+    background-color: rgba(0, 0, 0, 0.4); }
+
+div {
+  border: 1px solid red; }
+
+/*# sourceMappingURL=app.css.map */
